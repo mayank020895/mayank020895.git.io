@@ -1,0 +1,19 @@
+.header{
+    border-width: 30px;
+    border:solid;
+    text-align: center;
+
+}
+body{
+background-color:grey;
+background-image: url("https://bigboomdesign.com/wp-content/uploads/ClientPortfolioBackground1.jpg");
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 1.2em;
+}
+td{
+    border: 3px solid black;
+
+    
+}

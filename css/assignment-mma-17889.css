@@ -1,0 +1,81 @@
+
+   
+    
+
+.header{
+
+    border: 9px ;
+    border:solid;
+    text-align: center; 
+    
+    
+    
+    
+    }
+
+    
+    .footer{
+        height:180px;
+        background-color: rgba(0,0,0,0.5);
+    }
+    div {
+        background-color: rgba(0,0,0,0.5);
+        width: 60%;
+        margin: auto;
+        padding: 5px;
+    }
+    body{
+        
+        background-image: url("https://bigboomdesign.com/wp-content/uploads/ClientPortfolioBackground1.jpg");
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-size: 1.2em;
+    }
+    .content{
+        text-align: center; 
+        padding:1%; 
+        align-items: center;
+        margin:1%;
+         margin-left: 40%;
+          margin-right: 30%;
+           margin-bottom: 1%;
+            font-size: 15pt;
+            
+    }
+    
+    .links{
+       float: left;
+        padding: 14pt;
+        width :10% ;
+        font-size: 15pt;
+       
+    }
+    .address{
+        text-align: left;
+        top: 2%;
+        left: 35%;
+        bottom: 5%;
+        font-size: 13pt;
+        background-color: rgba(0,0,0,0.5);
+        
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        background-color: darkgoldenrod;
+        width: 150px;
+        height:25pt;
+       text-align: left;
+      margin: 4pt;
+    
+    
+    } 
+        li{
+            list-style: circle;
+         float: left;
+         
+         
+        }
+    
